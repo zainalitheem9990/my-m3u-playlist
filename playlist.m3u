@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, ary news
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/ARYnews-abr/playlist.m3u8
-#EXTM3U ary digitel
-#EXTINF:-2,
+#EXTM3U 
+#EXTINF:-2,ary digitel
 https://cdn12isb.tamashaweb.com:8087/jazzauth/ARYdigital-abr/playlist.m3u8
