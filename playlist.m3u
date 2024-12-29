@@ -13,3 +13,9 @@ https://cdn22lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8
 #EXTM3U
 #EXTINF:-5,animal planet
 https://cdn12isb.tamashaweb.com:8087/jazzauth/AnimalPlanet-abr/playlist.m3u8
+#EXTM3U
+#EXTINF:-6,colors
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Colors-HD-abr/live/Colors-HD_360p/chunks.m3u8
+#EXTM3U
+#EXTINF:-7,colores rishtey
+https://cdn12isb.tamashaweb.com:8087/jazzauth/Colors-Rishtey-abr/live/Colors-Rishtey_360p/chunks.m3u8
